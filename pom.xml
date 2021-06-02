@@ -29,6 +29,7 @@
             <artifactId>MarvinPlugins</artifactId>
             <version>1.5.5</version>
         </dependency>
+
 <!-- Работа с изображением thumbnailator. Рекомендуем взять из неё функции обрезки  и изменения параметров картинки -->
         <dependency>
             <groupId>net.coobird</groupId>
